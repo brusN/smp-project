@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistentDataStructures", "PersistentDataStructures\PersistentDataStructures.csproj", "{24866EDF-CFAB-4D4B-890F-A44A0B10E40C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{1FC8E5BF-1EBD-4722-80B8-63FA78E4BEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24866EDF-CFAB-4D4B-890F-A44A0B10E40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24866EDF-CFAB-4D4B-890F-A44A0B10E40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24866EDF-CFAB-4D4B-890F-A44A0B10E40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24866EDF-CFAB-4D4B-890F-A44A0B10E40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC8E5BF-1EBD-4722-80B8-63FA78E4BEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC8E5BF-1EBD-4722-80B8-63FA78E4BEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC8E5BF-1EBD-4722-80B8-63FA78E4BEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC8E5BF-1EBD-4722-80B8-63FA78E4BEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
